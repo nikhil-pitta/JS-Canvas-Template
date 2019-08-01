@@ -1,2 +1,3 @@
 # JS-Canvas-Template
-A JavaScript Template for HTML5 Canvas
+Launch index.html and immediately begin working by editing canvas.js.
+* canvas.js comes with preexisting utility functions to optimize workflow.
