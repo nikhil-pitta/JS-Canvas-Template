@@ -6,7 +6,7 @@ Launch index.html and immediately begin working by editing canvas.js.
 1. Navigate to a directory in which you feel comfortable creating a new folder
 2. In terminal type in:
 `git clone https://github.com/nikhil-pitta/JS-Canvas-Template.git <Name of Folder>`
-* Without the "< >"
+Without the "< >"
 
 ## Features
 * The set up of creating an html page to load the canvas.js script has already been completed
