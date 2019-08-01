@@ -92,7 +92,7 @@ function init()
 // Method used to update objects
 function animate()
 {
-	requestAnimationFrame(animate)
+	requestAnimationFrame(animate);
 	c.clearRect(0, 0, innerWidth, innerHeight);
 
 	c.fillText("Nikhil's Template", mouse.x, mouse.y);
@@ -100,8 +100,8 @@ function animate()
 
 }
 
-animate();
 init();
+animate();
 
 
 
